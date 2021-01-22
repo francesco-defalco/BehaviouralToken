@@ -1,7 +1,6 @@
 from web3 import Web3
 from eth_account.messages import encode_defunct
 from eth_account import Account
-#from flask import Flask, Response, request, jsonify
 import json
 
 ganache_url = "http://127.0.0.1:8545"
